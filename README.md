@@ -3,41 +3,40 @@ FULL_NAME: María Sofía Aljure Herrera
 GITHUB_USER: Sofialjure
 -->
 
+# Hi! I'm María Sofía Aljure Herrera 👋
 
-# ¡Hola! Soy María Sofía Aljure Herrera 👋
+🎓 Systems Engineering student at CORHUILA, Colombia.
 
-🎓 Estudiante de Ingeniería de Sistemas en CORHUILA.
+I'm interested in software development, technical documentation, and technology project management. I enjoy collaborating with others, organizing solutions, and learning through hands-on projects.
 
-Me interesa el desarrollo de software, la documentación técnica y la gestión de proyectos tecnológicos. Disfruto trabajar en equipo, organizar soluciones y aprender mediante proyectos prácticos.
+## 💻 About Me
 
-## 💻 Sobre mí
+- 🔭 Currently contributing to **TeleMed IA**, an academic telemedicine platform.
+- 🧩 Working on the **Professional Management** and **Document Generation** domains.
+- 📝 Interested in technical documentation, requirements analysis, and project organization.
+- 🤝 Experienced in collaborative workflows using Git and GitHub, including branches, pull requests, and code reviews.
+- 🌱 Continuously improving my knowledge of software architecture and distributed systems.
 
-- 🔭 Actualmente participo en **TeleMed IA**, una plataforma académica de telemedicina.
-- 🧩 Trabajo en los dominios de **Professional Management** y **Document Generation**.
-- 📝 Me interesa la documentación técnica, el análisis de requisitos y la organización de proyectos.
-- 🤝 Tengo experiencia colaborando mediante Git y GitHub, incluyendo ramas, pull requests y revisión de cambios.
-- 🌱 Continúo fortaleciendo mis conocimientos en arquitectura de software y sistemas distribuidos.
+## 🛠️ Technologies & Tools
 
-## 🛠️ Tecnologías y herramientas
+- **Languages:** Java, Python, SQL, TypeScript.
+- **Development:** Spring Boot, Angular, Ionic.
+- **Databases:** PostgreSQL, MySQL.
+- **Tools:** Git, GitHub, Docker, Postman.
+- **Documentation & Collaboration:** Markdown, requirements management, and pull requests.
 
-- **Lenguajes:** Java, Python, SQL, TypeScript.
-- **Desarrollo:** Spring Boot, Angular, Ionic.
-- **Bases de datos:** PostgreSQL, MySQL.
-- **Herramientas:** Git, GitHub, Docker, Postman.
-- **Documentación y colaboración:** Markdown, gestión de requisitos y pull requests.
-
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
 ### TeleMed IA
-Plataforma académica de telemedicina desarrollada en equipo. Mi participación se centra en Professional Management y Document Generation, además de la documentación técnica asociada.
+An academic telemedicine platform developed collaboratively. My contributions focus on Professional Management and Document Generation, along with their technical documentation.
 
-### Proyectos académicos
-Desarrollo de proyectos relacionados con arquitectura de software, programación y análisis de datos durante mi formación en Ingeniería de Sistemas.
+### Academic Projects
+Projects involving software architecture, programming, and data analysis as part of my Systems Engineering studies.
 
-## 📫 Conecta conmigo
+## 📫 Connect with Me
 
-- LinkedIn: [Mi perfil profesional](www.linkedin.com/in/maria-sofia-aljure-herrera-6568ab293)
+- **LinkedIn:** [My professional profile](https://www.linkedin.com/in/maria-sofia-aljure-herrera-6568ab293/)
 
 ---
 
-*Aprendiendo, construyendo y mejorando un paso a la vez.* 🚀
+*Learning, building, and improving one step at a time.* 🚀
