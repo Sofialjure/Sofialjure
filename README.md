@@ -4,27 +4,40 @@ GITHUB_USER: Sofialjure
 -->
 
 
-María Sofía Aljure Herrera 👋
+# ¡Hola! Soy María Sofía Aljure Herrera 👋
 
-🎓 Estudiante de Ingeniería de Sistemas — 8° semestre.
+🎓 Estudiante de Ingeniería de Sistemas en CORHUILA.
 
-Me interesa el desarrollo de software y la construcción de soluciones tecnológicas. Me caracterizo por ser una persona organizada, responsable y detallista, especialmente en la documentación, estructuración y presentación de proyectos.
+Me interesa el desarrollo de software, la documentación técnica y la gestión de proyectos tecnológicos. Disfruto trabajar en equipo, organizar soluciones y aprender mediante proyectos prácticos.
 
+## 💻 Sobre mí
 
-📚 Actualmente
+- 🔭 Actualmente participo en **TeleMed IA**, una plataforma académica de telemedicina.
+- 🧩 Trabajo en los dominios de **Professional Management** y **Document Generation**.
+- 📝 Me interesa la documentación técnica, el análisis de requisitos y la organización de proyectos.
+- 🤝 Tengo experiencia colaborando mediante Git y GitHub, incluyendo ramas, pull requests y revisión de cambios.
+- 🌱 Continúo fortaleciendo mis conocimientos en arquitectura de software y sistemas distribuidos.
 
-🎓 Ingeniería de Sistemas
+## 🛠️ Tecnologías y herramientas
 
-💻 Desarrollo de software
+- **Lenguajes:** Java, Python, SQL, TypeScript.
+- **Desarrollo:** Spring Boot, Angular, Ionic.
+- **Bases de datos:** PostgreSQL, MySQL.
+- **Herramientas:** Git, GitHub, Docker, Postman.
+- **Documentación y colaboración:** Markdown, gestión de requisitos y pull requests.
 
-📝 Documentación y organización de proyectos
+## 🚀 Proyectos destacados
 
-🏗️ Arquitectura y diseño de sistemas
+### TeleMed IA
+Plataforma académica de telemedicina desarrollada en equipo. Mi participación se centra en Professional Management y Document Generation, además de la documentación técnica asociada.
 
-🌐 Aprendizaje en sistemas distribuidos
+### Proyectos académicos
+Desarrollo de proyectos relacionados con arquitectura de software, programación y análisis de datos durante mi formación en Ingeniería de Sistemas.
 
-🎯 Sobre mí
+## 📫 Conecta conmigo
 
-Disfruto aprender de forma práctica, trabajar en equipo y transformar ideas en soluciones bien estructuradas. Actualmente continúo fortaleciendo mis conocimientos y habilidades a través de proyectos académicos y nuevos retos de desarrollo.
+- LinkedIn: [Mi perfil profesional](www.linkedin.com/in/maria-sofia-aljure-herrera-6568ab293)
 
-Learning, building and improving one step at a time.
+---
+
+*Aprendiendo, construyendo y mejorando un paso a la vez.* 🚀
