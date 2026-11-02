@@ -12,13 +12,13 @@
 
 </div>
 
-## 🌸 Sobre mí
+##  Sobre mí
 
 🎓 Soy estudiante de **Ingeniería de Sistemas** en la **Corporación Universitaria del Huila – CORHUILA**, en Colombia. Me apasiona el **desarrollo de software**, la **documentación técnica** y la **gestión de proyectos de tecnología**.
 
 🩺 Actualmente contribuyo en **TeleMed IA**, una plataforma académica de telemedicina, y 🔬 soy integrante e investigadora del **Semillero de Investigación Sociedad NTIC**.
 
-🤝 Disfruto trabajar en equipo, organizar soluciones y aprender construyendo proyectos reales. Me caracterizo por mi dedicación, mi capacidad de aprendizaje y mi disposición para asumir nuevos retos. 🚀
+Disfruto trabajar en equipo, organizar soluciones y aprender construyendo proyectos reales. Me caracterizo por mi dedicación, mi capacidad de aprendizaje y mi disposición para asumir nuevos retos. 🚀
 
 ## 🛠️ Tecnologías y herramientas
 
